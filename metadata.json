@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Red Solidaria",
+  "description": "Plataforma de ayuda mutua que conecta personas que necesitan ayuda con colaboradores voluntarios. Cuenta con perfiles, chat en tiempo real, feed con algoritmo de relevancia y moderación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
